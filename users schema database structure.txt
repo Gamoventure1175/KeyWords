@@ -1,0 +1,8 @@
+users (collection)
+  └── userId1 (document)
+      └── keywords (subcollection)
+          ├── keywordId1 (document)
+          ├── keywordId2 (document)
+  └── userId2 (document)
+      └── keywords (subcollection)
+          ├── keywordId1 (document)
