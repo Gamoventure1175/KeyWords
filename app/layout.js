@@ -2,7 +2,6 @@
 
 import Navbar from "@/components/Navbar";
 import { Box, CssBaseline } from "@mui/material";
-import { ThemeProviderComponent } from "@/context/ThemeContext";
 import Head from "next/head";
 
 export default function RootLayout({ children }) {
